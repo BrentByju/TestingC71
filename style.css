@@ -1,0 +1,47 @@
+body
+{
+    text-align: center;
+}
+
+
+
+
+
+.travel_mainDiv
+{
+    border: 1px solid lightgray;
+}
+.travel_mainDiv img{
+    width:100%
+}
+.travel_mainDiv h5, .travel_mainDiv p{
+    margin:20px
+}
+.navbar-inverse, #my_nav_bar{
+    top:0%;
+    position: fixed;
+    
+}
+.navbar-header{
+    width:2000px;
+}
+.movie_head
+{
+    font-size: 20px;
+    padding:6px 22px;
+}
+.movie_head 
+    {
+        float: right;
+    }
+    .achievement_text span{
+        color:orange;
+    }
+    .new
+    {
+        margin-bottom: 20px;
+    }
+    #contact iframe
+    {
+        width:100;
+    }
